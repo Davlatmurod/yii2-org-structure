@@ -24,7 +24,7 @@
         "wbraganca/yii2-nested-set-behavior": "*",
         "wbraganca/yii2-fancytree-widget": "*",
         "firdows/yii2-orgchart": "dev-master",
-        "mdmsoft/yii2-autonumber": "~1.0",
+        "mdmsoft/yii2-autonumber": "~2.0",
         "kartik-v/yii2-widgets": "*"
     },
     "autoload": {
