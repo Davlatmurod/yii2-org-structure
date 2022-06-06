@@ -4,7 +4,6 @@
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
     "license": "GPL-3.0",
-    "minimum-stability": "stable",
     "support": {
         "source": "https://github.com/andatech-hrm/yii2-organizational-structure.git",
         "issues": "https://github.com/andatech-hrm/yii2-organizational-structure/issues"
